@@ -75,3 +75,4 @@ El testeo lo realizamos con personas que eran fans de Pokemón y jugadores de Po
 - Los cálculos no eran muy útiles como jugador.
 - Preferirían que hubiera filtro por temporadas.
 - Les gustaría una página horizontal.
+[Link del testeo de usabilidad](https://youtu.be/HjyrQCzqrsQ)
